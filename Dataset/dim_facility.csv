@@ -1,0 +1,26 @@
+facility_id,facility_name,country,city,facility_type,specialization,annual_capacity
+FAC_01,Samsung Global Facility 1,Germany,City_1,Central Warehouse,Assembling,973137
+FAC_02,Samsung Global Facility 2,Vietnam,City_2,Central Warehouse,Assembling,636203
+FAC_03,Samsung Global Facility 3,Japan,City_3,Central Warehouse,Distribution,1999163
+FAC_04,Samsung Global Facility 4,Germany,City_4,Central Warehouse,Assembling,805131
+FAC_05,Samsung Global Facility 5,USA,City_5,Logistics Hub,Distribution,1066608
+FAC_06,Samsung Global Facility 6,Japan,City_6,Logistics Hub,Fulfillment,723410
+FAC_07,Samsung Global Facility 7,USA,City_7,Manufacturing Plant,Testing,1137677
+FAC_08,Samsung Global Facility 8,Germany,City_8,Manufacturing Plant,Assembling,1302560
+FAC_09,Samsung Global Facility 9,UK,City_9,Logistics Hub,Assembling,1411608
+FAC_10,Samsung Global Facility 10,UK,City_10,Central Warehouse,Distribution,778852
+FAC_11,Samsung Global Facility 11,India,City_11,Manufacturing Plant,Distribution,1456916
+FAC_12,Samsung Global Facility 12,Japan,City_12,Manufacturing Plant,Fulfillment,772196
+FAC_13,Samsung Global Facility 13,India,City_13,Central Warehouse,Fulfillment,1880410
+FAC_14,Samsung Global Facility 14,South Korea,City_14,Logistics Hub,Assembling,1804204
+FAC_15,Samsung Global Facility 15,Germany,City_15,Logistics Hub,Testing,1570606
+FAC_16,Samsung Global Facility 16,UAE,City_16,Manufacturing Plant,Testing,1638407
+FAC_17,Samsung Global Facility 17,USA,City_17,Central Warehouse,Assembling,780199
+FAC_18,Samsung Global Facility 18,UK,City_18,Manufacturing Plant,Testing,1099149
+FAC_19,Samsung Global Facility 19,USA,City_19,Manufacturing Plant,Distribution,1468561
+FAC_20,Samsung Global Facility 20,UAE,City_20,Logistics Hub,Testing,756072
+FAC_21,Samsung Global Facility 21,UK,City_21,Central Warehouse,Testing,1304137
+FAC_22,Samsung Global Facility 22,UK,City_22,Central Warehouse,Assembling,710117
+FAC_23,Samsung Global Facility 23,UAE,City_23,Central Warehouse,Assembling,747117
+FAC_24,Samsung Global Facility 24,Japan,City_24,Logistics Hub,Testing,1022283
+FAC_25,Samsung Global Facility 25,Vietnam,City_25,Central Warehouse,Fulfillment,1686811

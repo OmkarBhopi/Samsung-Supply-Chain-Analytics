@@ -1,0 +1,61 @@
+supplier_id,supplier_name,country,city,specialty,tier,avg_quality_score
+SUP_01,Samsung SDI,India,City_1,Displays,Tier 1,97.2
+SUP_02,TSMC,USA,City_2,Camera Modules,Tier 1,90.4
+SUP_03,Qualcomm,USA,City_3,Camera Modules,Tier 1,93.0
+SUP_04,Sony,India,City_4,Camera Modules,Tier 1,89.4
+SUP_05,LG Display,Germany,City_5,Passives,Tier 1,91.1
+SUP_06,BOE,India,City_6,Semiconductors,Tier 1,87.9
+SUP_07,Murata,India,City_7,Semiconductors,Tier 1,88.8
+SUP_08,SK Hynix,Germany,City_8,Displays,Tier 1,95.3
+SUP_09,Global Supplier Component_9,USA,City_9,Passives,Tier 1,86.4
+SUP_10,Global Supplier Component_10,UAE,City_10,Semiconductors,Tier 2,90.6
+SUP_11,Global Supplier Component_11,South Korea,City_11,Passives,Tier 1,87.4
+SUP_12,Global Supplier Component_12,UAE,City_12,Batteries,Tier 1,92.1
+SUP_13,Global Supplier Component_13,Vietnam,City_13,Batteries,Tier 3,89.1
+SUP_14,Global Supplier Component_14,UAE,City_14,Camera Modules,Tier 2,96.7
+SUP_15,Global Supplier Component_15,UAE,City_15,Displays,Tier 3,85.5
+SUP_16,Global Supplier Component_16,Vietnam,City_16,Batteries,Tier 1,87.7
+SUP_17,Global Supplier Component_17,USA,City_17,Camera Modules,Tier 2,93.1
+SUP_18,Global Supplier Component_18,South Korea,City_18,Batteries,Tier 3,87.6
+SUP_19,Global Supplier Component_19,Germany,City_19,Camera Modules,Tier 2,94.0
+SUP_20,Global Supplier Component_20,Japan,City_20,Displays,Tier 1,96.9
+SUP_21,Global Supplier Component_21,India,City_21,Displays,Tier 3,94.7
+SUP_22,Global Supplier Component_22,UAE,City_22,Passives,Tier 1,87.4
+SUP_23,Global Supplier Component_23,UK,City_23,Semiconductors,Tier 1,93.7
+SUP_24,Global Supplier Component_24,Germany,City_24,Passives,Tier 1,98.4
+SUP_25,Global Supplier Component_25,Vietnam,City_25,Batteries,Tier 1,95.5
+SUP_26,Global Supplier Component_26,India,City_26,Batteries,Tier 2,86.6
+SUP_27,Global Supplier Component_27,India,City_27,Displays,Tier 3,94.1
+SUP_28,Global Supplier Component_28,Japan,City_28,Displays,Tier 1,86.3
+SUP_29,Global Supplier Component_29,USA,City_29,Semiconductors,Tier 1,96.7
+SUP_30,Global Supplier Component_30,UAE,City_30,Camera Modules,Tier 3,92.6
+SUP_31,Global Supplier Component_31,UK,City_31,Batteries,Tier 2,85.3
+SUP_32,Global Supplier Component_32,UK,City_32,Camera Modules,Tier 1,91.4
+SUP_33,Global Supplier Component_33,Germany,City_33,Semiconductors,Tier 1,92.0
+SUP_34,Global Supplier Component_34,India,City_34,Semiconductors,Tier 3,91.7
+SUP_35,Global Supplier Component_35,India,City_35,Semiconductors,Tier 1,88.9
+SUP_36,Global Supplier Component_36,USA,City_36,Displays,Tier 3,91.3
+SUP_37,Global Supplier Component_37,South Korea,City_37,Batteries,Tier 2,88.4
+SUP_38,Global Supplier Component_38,India,City_38,Passives,Tier 3,89.4
+SUP_39,Global Supplier Component_39,USA,City_39,Semiconductors,Tier 2,90.8
+SUP_40,Global Supplier Component_40,UK,City_40,Passives,Tier 2,97.9
+SUP_41,Global Supplier Component_41,UK,City_41,Displays,Tier 2,96.7
+SUP_42,Global Supplier Component_42,Vietnam,City_42,Semiconductors,Tier 2,96.3
+SUP_43,Global Supplier Component_43,Vietnam,City_43,Batteries,Tier 2,92.8
+SUP_44,Global Supplier Component_44,Vietnam,City_44,Semiconductors,Tier 2,91.0
+SUP_45,Global Supplier Component_45,UAE,City_45,Displays,Tier 2,88.7
+SUP_46,Global Supplier Component_46,UK,City_46,Camera Modules,Tier 3,86.4
+SUP_47,Global Supplier Component_47,USA,City_47,Camera Modules,Tier 3,88.2
+SUP_48,Global Supplier Component_48,Vietnam,City_48,Batteries,Tier 2,89.2
+SUP_49,Global Supplier Component_49,India,City_49,Passives,Tier 3,90.7
+SUP_50,Global Supplier Component_50,India,City_50,Camera Modules,Tier 2,89.5
+SUP_51,Global Supplier Component_51,Vietnam,City_51,Passives,Tier 1,95.3
+SUP_52,Global Supplier Component_52,Vietnam,City_52,Passives,Tier 2,93.2
+SUP_53,Global Supplier Component_53,Germany,City_53,Displays,Tier 2,85.2
+SUP_54,Global Supplier Component_54,USA,City_54,Displays,Tier 2,92.9
+SUP_55,Global Supplier Component_55,Japan,City_55,Displays,Tier 1,96.4
+SUP_56,Global Supplier Component_56,UK,City_56,Semiconductors,Tier 3,86.2
+SUP_57,Global Supplier Component_57,Vietnam,City_57,Displays,Tier 2,86.1
+SUP_58,Global Supplier Component_58,Germany,City_58,Semiconductors,Tier 3,89.3
+SUP_59,Global Supplier Component_59,South Korea,City_59,Passives,Tier 2,95.3
+SUP_60,Global Supplier Component_60,Japan,City_60,Semiconductors,Tier 3,98.1

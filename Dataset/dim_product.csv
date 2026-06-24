@@ -1,0 +1,151 @@
+product_id,product_name,category,product_line,launch_year,selling_price,unit_cost,weight_kg,Img
+PROD_001,Galaxy Buds v5 Pro 1,Accessories,Galaxy Buds,2023,161.01,61.95,0.047,https://images.samsung.com/mock/prod_1.png
+PROD_002,Galaxy M Series v5 Pro 2,Smartphone,Galaxy M Series,2026,355.11,154.5,0.167,https://images.samsung.com/mock/prod_2.png
+PROD_003,Galaxy M Series v4 Pro 3,Smartphone,Galaxy M Series,2024,416.39,150.93,0.17,https://images.samsung.com/mock/prod_3.png
+PROD_004,Galaxy Watch v2 Pro 4,Wearable,Galaxy Watch,2024,436.45,155.72,0.054,https://images.samsung.com/mock/prod_4.png
+PROD_005,Galaxy S Series v2 Pro 5,Smartphone,Galaxy S Series,2026,1618.16,869.89,0.163,https://images.samsung.com/mock/prod_5.png
+PROD_006,Galaxy Watch v3 Pro 6,Wearable,Galaxy Watch,2026,362.68,128.38,0.06,https://images.samsung.com/mock/prod_6.png
+PROD_007,Galaxy Watch v5 Pro 7,Wearable,Galaxy Watch,2023,470.39,136.8,0.055,https://images.samsung.com/mock/prod_7.png
+PROD_008,Galaxy Z Fold v2 Pro 8,Smartphone,Galaxy Z Fold,2023,2205.57,1410.93,0.217,https://images.samsung.com/mock/prod_8.png
+PROD_009,Galaxy A Series v4 Pro 9,Smartphone,Galaxy A Series,2023,529.23,241.05,0.171,https://images.samsung.com/mock/prod_9.png
+PROD_010,Galaxy M Series v4 Pro 10,Smartphone,Galaxy M Series,2024,331.05,190.92,0.177,https://images.samsung.com/mock/prod_10.png
+PROD_011,Galaxy Tab v2 Pro 11,Tablet,Galaxy Tab,2024,859.15,349.2,0.445,https://images.samsung.com/mock/prod_11.png
+PROD_012,Galaxy A Series v4 Pro 12,Smartphone,Galaxy A Series,2023,557.62,253.69,0.175,https://images.samsung.com/mock/prod_12.png
+PROD_013,Galaxy Z Flip v5 Pro 13,Smartphone,Galaxy Z Flip,2026,1108.54,669.96,0.185,https://images.samsung.com/mock/prod_13.png
+PROD_014,Galaxy Z Fold v5 Pro 14,Smartphone,Galaxy Z Fold,2025,1998.72,1300.32,0.224,https://images.samsung.com/mock/prod_14.png
+PROD_015,Galaxy S Series v4 Pro 15,Smartphone,Galaxy S Series,2026,1701.57,1036.85,0.153,https://images.samsung.com/mock/prod_15.png
+PROD_016,Galaxy M Series v3 Pro 16,Smartphone,Galaxy M Series,2023,385.36,158.95,0.184,https://images.samsung.com/mock/prod_16.png
+PROD_017,Galaxy A Series v1 Pro 17,Smartphone,Galaxy A Series,2026,470.86,221.51,0.158,https://images.samsung.com/mock/prod_17.png
+PROD_018,Galaxy S Series v5 Pro 18,Smartphone,Galaxy S Series,2025,1461.71,815.25,0.173,https://images.samsung.com/mock/prod_18.png
+PROD_019,Galaxy Tab v5 Pro 19,Tablet,Galaxy Tab,2025,951.11,379.85,0.469,https://images.samsung.com/mock/prod_19.png
+PROD_020,Galaxy S Series v3 Pro 20,Smartphone,Galaxy S Series,2023,1422.71,973.22,0.177,https://images.samsung.com/mock/prod_20.png
+PROD_021,Galaxy A Series v1 Pro 21,Smartphone,Galaxy A Series,2026,469.42,201.53,0.162,https://images.samsung.com/mock/prod_21.png
+PROD_022,Galaxy Z Fold v5 Pro 22,Smartphone,Galaxy Z Fold,2025,1979.49,1399.5,0.252,https://images.samsung.com/mock/prod_22.png
+PROD_023,Galaxy Z Fold v3 Pro 23,Smartphone,Galaxy Z Fold,2024,2231.18,1411.14,0.258,https://images.samsung.com/mock/prod_23.png
+PROD_024,Galaxy A Series v4 Pro 24,Smartphone,Galaxy A Series,2026,564.01,248.49,0.151,https://images.samsung.com/mock/prod_24.png
+PROD_025,Galaxy Z Fold v2 Pro 25,Smartphone,Galaxy Z Fold,2025,2188.33,1394.54,0.259,https://images.samsung.com/mock/prod_25.png
+PROD_026,Galaxy Buds v3 Pro 26,Accessories,Galaxy Buds,2024,166.33,63.6,0.045,https://images.samsung.com/mock/prod_26.png
+PROD_027,Galaxy Z Flip v3 Pro 27,Smartphone,Galaxy Z Flip,2023,1002.78,754.93,0.189,https://images.samsung.com/mock/prod_27.png
+PROD_028,Galaxy S Series v3 Pro 28,Smartphone,Galaxy S Series,2024,1475.56,828.77,0.16,https://images.samsung.com/mock/prod_28.png
+PROD_029,Galaxy Watch v1 Pro 29,Wearable,Galaxy Watch,2024,400.91,145.31,0.066,https://images.samsung.com/mock/prod_29.png
+PROD_030,Galaxy Tab v5 Pro 30,Tablet,Galaxy Tab,2023,1027.93,362.67,0.495,https://images.samsung.com/mock/prod_30.png
+PROD_031,Galaxy M Series v5 Pro 31,Smartphone,Galaxy M Series,2026,360.32,177.43,0.195,https://images.samsung.com/mock/prod_31.png
+PROD_032,Galaxy M Series v2 Pro 32,Smartphone,Galaxy M Series,2026,363.71,180.63,0.182,https://images.samsung.com/mock/prod_32.png
+PROD_033,Galaxy Buds v3 Pro 33,Accessories,Galaxy Buds,2023,195.7,60.08,0.052,https://images.samsung.com/mock/prod_33.png
+PROD_034,Galaxy Watch v3 Pro 34,Wearable,Galaxy Watch,2025,487.68,136.93,0.055,https://images.samsung.com/mock/prod_34.png
+PROD_035,Galaxy S Series v5 Pro 35,Smartphone,Galaxy S Series,2025,1564.26,836.17,0.173,https://images.samsung.com/mock/prod_35.png
+PROD_036,Galaxy M Series v3 Pro 36,Smartphone,Galaxy M Series,2026,385.34,159.91,0.185,https://images.samsung.com/mock/prod_36.png
+PROD_037,Galaxy Z Fold v2 Pro 37,Smartphone,Galaxy Z Fold,2026,2086.25,1410.37,0.223,https://images.samsung.com/mock/prod_37.png
+PROD_038,Galaxy Z Fold v2 Pro 38,Smartphone,Galaxy Z Fold,2025,1950.53,1342.62,0.227,https://images.samsung.com/mock/prod_38.png
+PROD_039,Galaxy Watch v4 Pro 39,Wearable,Galaxy Watch,2023,427.73,149.42,0.057,https://images.samsung.com/mock/prod_39.png
+PROD_040,Galaxy Watch v3 Pro 40,Wearable,Galaxy Watch,2025,428.16,154.76,0.058,https://images.samsung.com/mock/prod_40.png
+PROD_041,Galaxy M Series v4 Pro 41,Smartphone,Galaxy M Series,2026,401.6,181.52,0.177,https://images.samsung.com/mock/prod_41.png
+PROD_042,Galaxy S Series v4 Pro 42,Smartphone,Galaxy S Series,2024,1343.75,954.09,0.176,https://images.samsung.com/mock/prod_42.png
+PROD_043,Galaxy Tab v3 Pro 43,Tablet,Galaxy Tab,2023,832.47,300.83,0.405,https://images.samsung.com/mock/prod_43.png
+PROD_044,Galaxy Watch v3 Pro 44,Wearable,Galaxy Watch,2026,417.99,130.99,0.066,https://images.samsung.com/mock/prod_44.png
+PROD_045,Galaxy Z Fold v5 Pro 45,Smartphone,Galaxy Z Fold,2026,1970.82,1335.02,0.252,https://images.samsung.com/mock/prod_45.png
+PROD_046,Galaxy Watch v1 Pro 46,Wearable,Galaxy Watch,2026,450.93,146.79,0.055,https://images.samsung.com/mock/prod_46.png
+PROD_047,Galaxy M Series v5 Pro 47,Smartphone,Galaxy M Series,2025,330.06,178.63,0.194,https://images.samsung.com/mock/prod_47.png
+PROD_048,Galaxy M Series v1 Pro 48,Smartphone,Galaxy M Series,2026,342.01,169.55,0.186,https://images.samsung.com/mock/prod_48.png
+PROD_049,Galaxy S Series v3 Pro 49,Smartphone,Galaxy S Series,2026,1675.68,846.86,0.154,https://images.samsung.com/mock/prod_49.png
+PROD_050,Galaxy S Series v5 Pro 50,Smartphone,Galaxy S Series,2024,1817.17,810.46,0.184,https://images.samsung.com/mock/prod_50.png
+PROD_051,Galaxy M Series v5 Pro 51,Smartphone,Galaxy M Series,2023,414.37,183.65,0.182,https://images.samsung.com/mock/prod_51.png
+PROD_052,Galaxy Buds v5 Pro 52,Accessories,Galaxy Buds,2023,201.18,64.45,0.047,https://images.samsung.com/mock/prod_52.png
+PROD_053,Galaxy S Series v1 Pro 53,Smartphone,Galaxy S Series,2024,1388.14,876.06,0.185,https://images.samsung.com/mock/prod_53.png
+PROD_054,Galaxy A Series v2 Pro 54,Smartphone,Galaxy A Series,2026,462.67,255.8,0.165,https://images.samsung.com/mock/prod_54.png
+PROD_055,Galaxy Buds v2 Pro 55,Accessories,Galaxy Buds,2024,181.1,52.1,0.052,https://images.samsung.com/mock/prod_55.png
+PROD_056,Galaxy S Series v5 Pro 56,Smartphone,Galaxy S Series,2024,1668.63,832.79,0.181,https://images.samsung.com/mock/prod_56.png
+PROD_057,Galaxy M Series v4 Pro 57,Smartphone,Galaxy M Series,2024,373.38,161.53,0.162,https://images.samsung.com/mock/prod_57.png
+PROD_058,Galaxy Z Fold v4 Pro 58,Smartphone,Galaxy Z Fold,2025,2267.97,1363.44,0.232,https://images.samsung.com/mock/prod_58.png
+PROD_059,Galaxy Z Fold v3 Pro 59,Smartphone,Galaxy Z Fold,2023,2115.7,1291.03,0.223,https://images.samsung.com/mock/prod_59.png
+PROD_060,Galaxy Tab v1 Pro 60,Tablet,Galaxy Tab,2026,989.07,325.79,0.408,https://images.samsung.com/mock/prod_60.png
+PROD_061,Galaxy Buds v1 Pro 61,Accessories,Galaxy Buds,2026,157.62,55.4,0.053,https://images.samsung.com/mock/prod_61.png
+PROD_062,Galaxy Z Fold v5 Pro 62,Smartphone,Galaxy Z Fold,2026,2129.23,1418.53,0.242,https://images.samsung.com/mock/prod_62.png
+PROD_063,Galaxy Buds v5 Pro 63,Accessories,Galaxy Buds,2024,158.3,60.49,0.05,https://images.samsung.com/mock/prod_63.png
+PROD_064,Galaxy Tab v3 Pro 64,Tablet,Galaxy Tab,2026,927.62,303.7,0.472,https://images.samsung.com/mock/prod_64.png
+PROD_065,Galaxy A Series v1 Pro 65,Smartphone,Galaxy A Series,2026,623.28,201.52,0.157,https://images.samsung.com/mock/prod_65.png
+PROD_066,Galaxy A Series v1 Pro 66,Smartphone,Galaxy A Series,2026,529.62,254.91,0.174,https://images.samsung.com/mock/prod_66.png
+PROD_067,Galaxy S Series v5 Pro 67,Smartphone,Galaxy S Series,2024,1683.71,1029.17,0.178,https://images.samsung.com/mock/prod_67.png
+PROD_068,Galaxy M Series v5 Pro 68,Smartphone,Galaxy M Series,2024,342.72,161.15,0.163,https://images.samsung.com/mock/prod_68.png
+PROD_069,Galaxy Tab v4 Pro 69,Tablet,Galaxy Tab,2023,830.13,308.26,0.448,https://images.samsung.com/mock/prod_69.png
+PROD_070,Galaxy A Series v4 Pro 70,Smartphone,Galaxy A Series,2023,595.24,245.8,0.159,https://images.samsung.com/mock/prod_70.png
+PROD_071,Galaxy Z Flip v5 Pro 71,Smartphone,Galaxy Z Flip,2026,1246.34,671.73,0.173,https://images.samsung.com/mock/prod_71.png
+PROD_072,Galaxy Buds v1 Pro 72,Accessories,Galaxy Buds,2026,206.01,50.23,0.052,https://images.samsung.com/mock/prod_72.png
+PROD_073,Galaxy Z Fold v2 Pro 73,Smartphone,Galaxy Z Fold,2023,2479.6,1303.23,0.258,https://images.samsung.com/mock/prod_73.png
+PROD_074,Galaxy Watch v2 Pro 74,Wearable,Galaxy Watch,2025,430.57,153.85,0.062,https://images.samsung.com/mock/prod_74.png
+PROD_075,Galaxy S Series v4 Pro 75,Smartphone,Galaxy S Series,2025,1726.73,994.69,0.181,https://images.samsung.com/mock/prod_75.png
+PROD_076,Galaxy Watch v5 Pro 76,Wearable,Galaxy Watch,2026,377.41,152.59,0.055,https://images.samsung.com/mock/prod_76.png
+PROD_077,Galaxy A Series v1 Pro 77,Smartphone,Galaxy A Series,2024,561.29,202.34,0.154,https://images.samsung.com/mock/prod_77.png
+PROD_078,Galaxy A Series v3 Pro 78,Smartphone,Galaxy A Series,2023,511.31,240.9,0.16,https://images.samsung.com/mock/prod_78.png
+PROD_079,Galaxy A Series v5 Pro 79,Smartphone,Galaxy A Series,2026,563.21,241.8,0.168,https://images.samsung.com/mock/prod_79.png
+PROD_080,Galaxy Z Flip v5 Pro 80,Smartphone,Galaxy Z Flip,2023,1219.19,774.16,0.193,https://images.samsung.com/mock/prod_80.png
+PROD_081,Galaxy M Series v2 Pro 81,Smartphone,Galaxy M Series,2023,349.51,194.57,0.19,https://images.samsung.com/mock/prod_81.png
+PROD_082,Galaxy Watch v4 Pro 82,Wearable,Galaxy Watch,2023,428.66,151.22,0.062,https://images.samsung.com/mock/prod_82.png
+PROD_083,Galaxy Buds v1 Pro 83,Accessories,Galaxy Buds,2023,156.19,61.32,0.05,https://images.samsung.com/mock/prod_83.png
+PROD_084,Galaxy Watch v3 Pro 84,Wearable,Galaxy Watch,2023,391.67,134.03,0.055,https://images.samsung.com/mock/prod_84.png
+PROD_085,Galaxy Z Flip v4 Pro 85,Smartphone,Galaxy Z Flip,2024,1036.51,762.97,0.197,https://images.samsung.com/mock/prod_85.png
+PROD_086,Galaxy Z Fold v5 Pro 86,Smartphone,Galaxy Z Fold,2023,2254.92,1289.23,0.23,https://images.samsung.com/mock/prod_86.png
+PROD_087,Galaxy S Series v5 Pro 87,Smartphone,Galaxy S Series,2025,1410.62,932.89,0.18,https://images.samsung.com/mock/prod_87.png
+PROD_088,Galaxy Buds v2 Pro 88,Accessories,Galaxy Buds,2023,179.67,51.37,0.052,https://images.samsung.com/mock/prod_88.png
+PROD_089,Galaxy Z Flip v4 Pro 89,Smartphone,Galaxy Z Flip,2023,1046.83,663.16,0.2,https://images.samsung.com/mock/prod_89.png
+PROD_090,Galaxy Z Fold v5 Pro 90,Smartphone,Galaxy Z Fold,2026,2403.71,1386.07,0.219,https://images.samsung.com/mock/prod_90.png
+PROD_091,Galaxy A Series v5 Pro 91,Smartphone,Galaxy A Series,2023,476.39,253.51,0.151,https://images.samsung.com/mock/prod_91.png
+PROD_092,Galaxy Watch v4 Pro 92,Wearable,Galaxy Watch,2023,401.89,133.47,0.065,https://images.samsung.com/mock/prod_92.png
+PROD_093,Galaxy S Series v4 Pro 93,Smartphone,Galaxy S Series,2025,1482.11,942.05,0.169,https://images.samsung.com/mock/prod_93.png
+PROD_094,Galaxy Z Fold v2 Pro 94,Smartphone,Galaxy Z Fold,2025,2105.44,1284.27,0.221,https://images.samsung.com/mock/prod_94.png
+PROD_095,Galaxy M Series v2 Pro 95,Smartphone,Galaxy M Series,2026,348.62,161.42,0.166,https://images.samsung.com/mock/prod_95.png
+PROD_096,Galaxy Z Flip v3 Pro 96,Smartphone,Galaxy Z Flip,2023,1297.68,748.1,0.18,https://images.samsung.com/mock/prod_96.png
+PROD_097,Galaxy S Series v1 Pro 97,Smartphone,Galaxy S Series,2024,1448.57,889.97,0.168,https://images.samsung.com/mock/prod_97.png
+PROD_098,Galaxy A Series v5 Pro 98,Smartphone,Galaxy A Series,2025,624.58,200.73,0.173,https://images.samsung.com/mock/prod_98.png
+PROD_099,Galaxy Tab v4 Pro 99,Tablet,Galaxy Tab,2025,1094.12,383.22,0.468,https://images.samsung.com/mock/prod_99.png
+PROD_100,Galaxy S Series v1 Pro 100,Smartphone,Galaxy S Series,2023,1627.29,925.54,0.177,https://images.samsung.com/mock/prod_100.png
+PROD_101,Galaxy M Series v4 Pro 101,Smartphone,Galaxy M Series,2024,305.45,190.55,0.196,https://images.samsung.com/mock/prod_101.png
+PROD_102,Galaxy Watch v5 Pro 102,Wearable,Galaxy Watch,2026,364.95,134.2,0.056,https://images.samsung.com/mock/prod_102.png
+PROD_103,Galaxy Z Fold v2 Pro 103,Smartphone,Galaxy Z Fold,2026,2054.41,1253.02,0.22,https://images.samsung.com/mock/prod_103.png
+PROD_104,Galaxy S Series v1 Pro 104,Smartphone,Galaxy S Series,2023,1535.69,862.39,0.164,https://images.samsung.com/mock/prod_104.png
+PROD_105,Galaxy Z Fold v5 Pro 105,Smartphone,Galaxy Z Fold,2024,1995.09,1298.92,0.22,https://images.samsung.com/mock/prod_105.png
+PROD_106,Galaxy Tab v1 Pro 106,Tablet,Galaxy Tab,2024,1032.23,385.48,0.412,https://images.samsung.com/mock/prod_106.png
+PROD_107,Galaxy Tab v1 Pro 107,Tablet,Galaxy Tab,2024,814.47,377.95,0.478,https://images.samsung.com/mock/prod_107.png
+PROD_108,Galaxy Watch v2 Pro 108,Wearable,Galaxy Watch,2025,402.74,155.47,0.059,https://images.samsung.com/mock/prod_108.png
+PROD_109,Galaxy M Series v2 Pro 109,Smartphone,Galaxy M Series,2023,400.6,187.9,0.177,https://images.samsung.com/mock/prod_109.png
+PROD_110,Galaxy S Series v4 Pro 110,Smartphone,Galaxy S Series,2023,1339.19,803.28,0.171,https://images.samsung.com/mock/prod_110.png
+PROD_111,Galaxy Z Flip v5 Pro 111,Smartphone,Galaxy Z Flip,2023,1222.17,779.39,0.207,https://images.samsung.com/mock/prod_111.png
+PROD_112,Galaxy A Series v1 Pro 112,Smartphone,Galaxy A Series,2024,493.4,222.67,0.152,https://images.samsung.com/mock/prod_112.png
+PROD_113,Galaxy Z Flip v1 Pro 113,Smartphone,Galaxy Z Flip,2026,1091.46,709.11,0.194,https://images.samsung.com/mock/prod_113.png
+PROD_114,Galaxy Z Fold v2 Pro 114,Smartphone,Galaxy Z Fold,2024,1815.97,1188.66,0.239,https://images.samsung.com/mock/prod_114.png
+PROD_115,Galaxy M Series v4 Pro 115,Smartphone,Galaxy M Series,2023,402.26,173.41,0.165,https://images.samsung.com/mock/prod_115.png
+PROD_116,Galaxy M Series v5 Pro 116,Smartphone,Galaxy M Series,2023,316.08,168.16,0.185,https://images.samsung.com/mock/prod_116.png
+PROD_117,Galaxy M Series v4 Pro 117,Smartphone,Galaxy M Series,2024,316.36,159.58,0.175,https://images.samsung.com/mock/prod_117.png
+PROD_118,Galaxy A Series v3 Pro 118,Smartphone,Galaxy A Series,2025,549.87,238.2,0.167,https://images.samsung.com/mock/prod_118.png
+PROD_119,Galaxy S Series v4 Pro 119,Smartphone,Galaxy S Series,2024,1707.5,923.36,0.174,https://images.samsung.com/mock/prod_119.png
+PROD_120,Galaxy M Series v2 Pro 120,Smartphone,Galaxy M Series,2026,395.58,181.39,0.192,https://images.samsung.com/mock/prod_120.png
+PROD_121,Galaxy S Series v2 Pro 121,Smartphone,Galaxy S Series,2024,1538.75,861.98,0.17,https://images.samsung.com/mock/prod_121.png
+PROD_122,Galaxy Z Flip v3 Pro 122,Smartphone,Galaxy Z Flip,2025,1231.86,637.64,0.191,https://images.samsung.com/mock/prod_122.png
+PROD_123,Galaxy Buds v4 Pro 123,Accessories,Galaxy Buds,2026,159.11,51.92,0.052,https://images.samsung.com/mock/prod_123.png
+PROD_124,Galaxy S Series v5 Pro 124,Smartphone,Galaxy S Series,2026,1546.46,1015.23,0.159,https://images.samsung.com/mock/prod_124.png
+PROD_125,Galaxy A Series v2 Pro 125,Smartphone,Galaxy A Series,2026,597.92,213.43,0.155,https://images.samsung.com/mock/prod_125.png
+PROD_126,Galaxy Tab v1 Pro 126,Tablet,Galaxy Tab,2026,838.6,307.98,0.424,https://images.samsung.com/mock/prod_126.png
+PROD_127,Galaxy A Series v3 Pro 127,Smartphone,Galaxy A Series,2023,509.42,207.72,0.147,https://images.samsung.com/mock/prod_127.png
+PROD_128,Galaxy Buds v3 Pro 128,Accessories,Galaxy Buds,2025,154.91,59.42,0.049,https://images.samsung.com/mock/prod_128.png
+PROD_129,Galaxy S Series v1 Pro 129,Smartphone,Galaxy S Series,2025,1719.22,866.45,0.159,https://images.samsung.com/mock/prod_129.png
+PROD_130,Galaxy Buds v2 Pro 130,Accessories,Galaxy Buds,2026,205.44,58.05,0.049,https://images.samsung.com/mock/prod_130.png
+PROD_131,Galaxy Watch v3 Pro 131,Wearable,Galaxy Watch,2026,358.73,145.94,0.056,https://images.samsung.com/mock/prod_131.png
+PROD_132,Galaxy M Series v4 Pro 132,Smartphone,Galaxy M Series,2023,361.4,190.28,0.193,https://images.samsung.com/mock/prod_132.png
+PROD_133,Galaxy Tab v1 Pro 133,Tablet,Galaxy Tab,2025,877.59,347.94,0.439,https://images.samsung.com/mock/prod_133.png
+PROD_134,Galaxy A Series v2 Pro 134,Smartphone,Galaxy A Series,2024,601.33,233.84,0.148,https://images.samsung.com/mock/prod_134.png
+PROD_135,Galaxy S Series v2 Pro 135,Smartphone,Galaxy S Series,2025,1546.46,882.3,0.175,https://images.samsung.com/mock/prod_135.png
+PROD_136,Galaxy A Series v2 Pro 136,Smartphone,Galaxy A Series,2025,546.68,205.22,0.168,https://images.samsung.com/mock/prod_136.png
+PROD_137,Galaxy S Series v5 Pro 137,Smartphone,Galaxy S Series,2024,1496.96,935.47,0.184,https://images.samsung.com/mock/prod_137.png
+PROD_138,Galaxy Watch v5 Pro 138,Wearable,Galaxy Watch,2024,399.85,140.55,0.061,https://images.samsung.com/mock/prod_138.png
+PROD_139,Galaxy S Series v4 Pro 139,Smartphone,Galaxy S Series,2024,1417.17,801.81,0.159,https://images.samsung.com/mock/prod_139.png
+PROD_140,Galaxy Tab v1 Pro 140,Tablet,Galaxy Tab,2025,817.81,372.53,0.41,https://images.samsung.com/mock/prod_140.png
+PROD_141,Galaxy Buds v2 Pro 141,Accessories,Galaxy Buds,2026,208.94,56.16,0.055,https://images.samsung.com/mock/prod_141.png
+PROD_142,Galaxy Z Fold v3 Pro 142,Smartphone,Galaxy Z Fold,2024,2502.05,1101.75,0.261,https://images.samsung.com/mock/prod_142.png
+PROD_143,Galaxy Buds v5 Pro 143,Accessories,Galaxy Buds,2026,178.6,58.03,0.047,https://images.samsung.com/mock/prod_143.png
+PROD_144,Galaxy A Series v1 Pro 144,Smartphone,Galaxy A Series,2026,526.58,219.42,0.152,https://images.samsung.com/mock/prod_144.png
+PROD_145,Galaxy Buds v5 Pro 145,Accessories,Galaxy Buds,2024,196.07,60.61,0.047,https://images.samsung.com/mock/prod_145.png
+PROD_146,Galaxy Z Fold v2 Pro 146,Smartphone,Galaxy Z Fold,2026,2227.6,1205.81,0.222,https://images.samsung.com/mock/prod_146.png
+PROD_147,Galaxy Buds v2 Pro 147,Accessories,Galaxy Buds,2026,162.1,58.23,0.048,https://images.samsung.com/mock/prod_147.png
+PROD_148,Galaxy Z Flip v3 Pro 148,Smartphone,Galaxy Z Flip,2024,1046.68,600.49,0.175,https://images.samsung.com/mock/prod_148.png
+PROD_149,Galaxy Z Flip v5 Pro 149,Smartphone,Galaxy Z Flip,2026,1386.01,749.51,0.209,https://images.samsung.com/mock/prod_149.png
+PROD_150,Galaxy A Series v4 Pro 150,Smartphone,Galaxy A Series,2026,461.97,210.87,0.169,https://images.samsung.com/mock/prod_150.png
