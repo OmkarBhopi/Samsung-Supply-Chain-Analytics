@@ -251,7 +251,3 @@ Samsung-Supply-Chain-Analytics/
 # 👨‍💻 Author
 
 **Omkar Bhopi**
-
----
-
-# ⭐ If you found this project helpful, consider giving it a Star!
